@@ -26,7 +26,7 @@ jobs:
         run: | 
           chmod +x ./gradlew
           ./gradlew build
-          mv build/libs/mcsr-practice-${{ env.MOD_VERSION }}.jar build/libs/mcsr-practice-mc${{ env.MINECRAFT_VERSION }}-v${{ env.MOD_VERSION }}+b${{ github.run_number }}.jar
+          mv build/libs/mcsr-practice.jar build/libs/mcsr-practice-mc${{ env.MINECRAFT_VERSION }}-v${{ env.MOD_VERSION }}+b${{ github.run_number }}.jar
 
       - name: Upload the mcsr-practice .jar file
         uses: actions/upload-artifact@v7
