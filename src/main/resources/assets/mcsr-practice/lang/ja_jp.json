@@ -1,0 +1,10 @@
+{
+	"mcsr-practice.menu.practice": "練習",
+	"mcsr-practice.menu.practiceModes.title": "練習モード",
+	"mcsr-practice.menu.practiceModes.buttons.practiceSelected": "選択した練習",
+	"mcsr-practice.menu.practiceModes.buttons.configure": "設定",
+	"mcsr-practice.menu.practiceModes.buttons.favorite": "お気に入り",
+	"mcsr-practice.menu.practiceModes.buttons.unfavorite": "お気に入りを解除",
+	"mcsr-practice.menu.practiceModes.buttons.selectAll": "すべて選択",
+	"mcsr-practice.menu.practiceModes.buttons.deselect": "選択を解除"
+}

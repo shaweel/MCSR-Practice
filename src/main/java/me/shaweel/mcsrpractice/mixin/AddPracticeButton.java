@@ -13,6 +13,7 @@ import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
+import me.shaweel.mcsrpractice.PracticeModesListScreen;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.components.Button;
 
@@ -32,7 +33,7 @@ public class AddPracticeButton {
 				i, 
 				200, 20, 
 				new TranslatableComponent("mcsr-practice.menu.practice"), 
-				button -> Minecraft.getInstance().setScreen(new SelectWorldScreen(titleScreen))
+				button -> Minecraft.getInstance().setScreen(new PracticeModesListScreen(titleScreen))
 			)
 		);
 

@@ -1,10 +1,10 @@
 {
 	"mcsr-practice.menu.practice": "Practice",
 	"mcsr-practice.menu.practiceModes.title": "Practice modes",
-	"mcsr-practice.menu.practiceModes.buttons.practiceSelected": "Practice selected",
+	"mcsr-practice.menu.practiceModes.buttons.practiceSelected": "Practise selected",
 	"mcsr-practice.menu.practiceModes.buttons.configure": "Configure",
-	"mcsr-practice.menu.practiceModes.buttons.favorite": "Favorite",
-	"mcsr-practice.menu.practiceModes.buttons.unfavorite": "Unfavorite",
+	"mcsr-practice.menu.practiceModes.buttons.favorite": "Favourite",
+	"mcsr-practice.menu.practiceModes.buttons.unfavorite": "Unfavourite",
 	"mcsr-practice.menu.practiceModes.buttons.selectAll": "Select all",
 	"mcsr-practice.menu.practiceModes.buttons.deselect": "Deselect"
 }

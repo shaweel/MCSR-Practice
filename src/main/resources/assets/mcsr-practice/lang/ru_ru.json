@@ -1,3 +1,10 @@
 {
-	"mcsr-practice.menu.practice": "Практика"
+	"mcsr-practice.menu.practice": "Тренировка",
+	"mcsr-practice.menu.practiceModes.title": "Режимы тренировки",
+	"mcsr-practice.menu.practiceModes.buttons.practiceSelected": "Тренировать выбранное",
+	"mcsr-practice.menu.practiceModes.buttons.configure": "Настроить",
+	"mcsr-practice.menu.practiceModes.buttons.favorite": "В избранное",
+	"mcsr-practice.menu.practiceModes.buttons.unfavorite": "Из избранного",
+	"mcsr-practice.menu.practiceModes.buttons.selectAll": "Выбрать все",
+	"mcsr-practice.menu.practiceModes.buttons.deselect": "Снять выбор"
 }

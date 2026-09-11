@@ -1,3 +1,10 @@
 {
-	"mcsr-practice.menu.practice": "Precvičovanie"
+	"mcsr-practice.menu.practice": "Precvičovanie",
+	"mcsr-practice.menu.practiceModes.title": "Režimy precvičovania",
+	"mcsr-practice.menu.practiceModes.buttons.practiceSelected": "Precvičiť vybrané",
+	"mcsr-practice.menu.practiceModes.buttons.configure": "Nastaviť",
+	"mcsr-practice.menu.practiceModes.buttons.favorite": "Do obľúbených",
+	"mcsr-practice.menu.practiceModes.buttons.unfavorite": "Z obľúbených",
+	"mcsr-practice.menu.practiceModes.buttons.selectAll": "Vybrať všetko",
+	"mcsr-practice.menu.practiceModes.buttons.deselect": "Zrušiť výber"
 }
