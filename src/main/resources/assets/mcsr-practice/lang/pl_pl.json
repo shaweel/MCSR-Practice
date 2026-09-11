@@ -3,8 +3,8 @@
 	"mcsr-practice.menu.practiceModes.title": "Tryby ćwiczeń",
 	"mcsr-practice.menu.practiceModes.buttons.practiceSelected": "Ćwiczyć wybrane",
 	"mcsr-practice.menu.practiceModes.buttons.configure": "Zkonfiguruj",
-	"mcsr-practice.menu.practiceModes.buttons.favorite": "Ulubione",
-	"mcsr-practice.menu.practiceModes.buttons.unfavorite": "Nie lubiane",
-	"mcsr-practice.menu.practiceModes.buttons.selectAll": "Wszystko",
+	"mcsr-practice.menu.practiceModes.buttons.favorite": "Do ulubionych",
+	"mcsr-practice.menu.practiceModes.buttons.unfavorite": "Z ulubionych",
+	"mcsr-practice.menu.practiceModes.buttons.selectAll": "Zaz. wszystko",
 	"mcsr-practice.menu.practiceModes.buttons.deselect": "Odznaczyć"
 }
