@@ -3,7 +3,8 @@
 	"package": "me.shaweel.mcsrpractice.mixin",
 	"compatibilityLevel": "JAVA_8",
 	"mixins": [
-		"ExampleMixin"
+		"AddPracticeButton",
+		"ScreenAccessor"
 	],
 	"injectors": {
 		"defaultRequire": 1

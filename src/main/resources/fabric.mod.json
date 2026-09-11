@@ -3,15 +3,15 @@
 	"id": "mcsr-practice",
 	"version": "${version}",
 	"name": "MCSR Practice",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A practice mod for Minecraft Speedrunning aiming to make practice easier by introducing faster reset times and more things to practice with the click of a button",
 	"authors": [
-		"Me!"
+		"shaweel"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/mcsr-practice",
+		"sources": "https://github.com/shaweel/MCSR-Practice"
 	},
-	"license": "CC0-1.0",
+	"license": "GPL-v3",
 	"icon": "assets/mcsr-practice/icon.png",
 	"environment": "*",
 	"entrypoints": {
